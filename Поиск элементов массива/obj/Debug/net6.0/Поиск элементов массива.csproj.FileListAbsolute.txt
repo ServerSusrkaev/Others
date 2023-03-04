@@ -1,0 +1,15 @@
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\bin\Debug\net6.0\Поиск элементов массива.exe
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\bin\Debug\net6.0\Поиск элементов массива.deps.json
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\bin\Debug\net6.0\Поиск элементов массива.runtimeconfig.json
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\bin\Debug\net6.0\Поиск элементов массива.dll
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\bin\Debug\net6.0\Поиск элементов массива.pdb
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.csproj.AssemblyReference.cache
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.AssemblyInfoInputs.cache
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.AssemblyInfo.cs
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.csproj.CoreCompileInputs.cache
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.dll
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\refint\Поиск элементов массива.dll
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.pdb
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\Поиск элементов массива.genruntimeconfig.cache
+C:\Users\compas95\Desktop\GeekBrains\Задачи\Поиск элементов массива\obj\Debug\net6.0\ref\Поиск элементов массива.dll
